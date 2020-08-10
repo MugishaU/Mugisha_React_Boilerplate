@@ -7,4 +7,3 @@
 - Clone new repo to machine
 - In new repo run `npm install`
 - In new repo run `npm start`
-- Change App.js intial render as desired
