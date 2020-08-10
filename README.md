@@ -2,7 +2,7 @@
 
 ## Run Instructions
 
-- Click "Use as Template" at the top of this repo
+- Click "Use this template" at the top of this repo
 - Follow repo setup instructions
 - Change App.js intial render as desired
 - Clone contents of fork into desired new repo
