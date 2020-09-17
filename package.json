@@ -1,7 +1,7 @@
 {
   "name": "mugisha_react_boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A front-end React application with a test suite in Enzyme and Jest",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode-development",
@@ -15,7 +15,7 @@
       "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
     }
   },
-  "author": "",
+  "author": "MugishaU",
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.4",
